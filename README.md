@@ -29,7 +29,7 @@ The outdoor/indoor PM<sub>2.5</sub> and PM<sub>10</sub> data in Beijing/Xian.<br
 `pm25` & `pm10`:PM<sub>2.5</sub> and PM<sub>10</sub> monitored by corresponding sensor at given time. The unit is μg/m<sup>3</sup>.<br>
 
 ## file 'UAV.json'
-PM<sub>2.5</sub> and PM<sub>10</sub> data colleted by UAVs.<br>
+PM<sub>2.5</sub> and PM<sub>10</sub> data collected by UAVs.<br>
 `id`:Location ID. <br>
      id = 0 refers to (longitude,latitude) = (116.312624,40.002469) <br>
      id = 1 refers to (longitude,latitude) = (116.319810,40.001806) <br>
