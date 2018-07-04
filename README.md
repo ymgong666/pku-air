@@ -29,16 +29,16 @@ The outdoor/indoor PM<sub>2.5</sub> and PM<sub>10</sub> data in Beijing/Xian.<br
 `pm25` & `pm10`:PM<sub>2.5</sub> and PM<sub>10</sub> monitored by corresponding sensor at given time. The unit is μg/m<sup>3</sup>.<br>
 
 ## file 'UAV.json'
- PM<sub>2.5</sub> and PM<sub>10</sub> data colleted by UAVs.
- `id`:Location ID. 
-      id = 0 refers to (longitude,latitude) = (116.312624,40.002469)
-      id = 1 refers to (longitude,latitude) = (116.319810,40.001806)
-      id = 2 refers to (longitude,latitude) = (116.312866,39.998486)
-      id = 3 refers to (longitude,latitude) = (116.320744,39.998770)
-      id = 4 refers to (longitude,latitude) = (116.313145,39.995508)
-      id = 5 refers to (longitude,latitude) = (116.320421,39.995301)
-      id = 6 refers to (longitude,latitude) = (116.316379,40.000345)
-      id = 7 refers to (longitude,latitude) = (116.316918,39.995591)
+PM<sub>2.5</sub> and PM<sub>10</sub> data colleted by UAVs.<br>
+`id`:Location ID. <br>
+     id = 0 refers to (longitude,latitude) = (116.312624,40.002469) <br>
+     id = 1 refers to (longitude,latitude) = (116.319810,40.001806) <br>
+     id = 2 refers to (longitude,latitude) = (116.312866,39.998486) <br>
+     id = 3 refers to (longitude,latitude) = (116.320744,39.998770) <br>
+     id = 4 refers to (longitude,latitude) = (116.313145,39.995508) <br>
+     id = 5 refers to (longitude,latitude) = (116.320421,39.995301) <br>
+     id = 6 refers to (longitude,latitude) = (116.316379,40.000345) <br>
+     id = 7 refers to (longitude,latitude) = (116.316918,39.995591) <br>
 
 ## Questions?
 Contact Zixuan Bai at zixuan.bai@pku.edu.cn
